@@ -2,13 +2,13 @@
 title: First Post - What I'm Studying/Doing
 author: Steve
 pubDatetime: 2024-09-21T04:06:31Z
-slug: first
+slug: first-post
 featured: false
 draft: false
 tags:
   - ccna
   - sans
-  -
+  - comp-sci
 description:
   What I'm currently up to.
 ---
