@@ -13,7 +13,7 @@ Earned an Associates in Cybersecurity in 2023, currently working on finishing my
 ## Hobbies
 I honestly don't enjoy much outside the world of computers. Perhaps I'm too obsessed, but it is what it is.
 
-I enjoy Capture The Flag (CTF) competetions. I've participated in about 5 now. The last one I competed in spanned 3 days and I placed in the top 10%, and might land me an amazing scholorship.
+I enjoy Capture The Flag (CTF) competetions. I've participated in about 5 now. The last one I competed in spanned 3 days, I placed in the top 10%, and it might even land me an amazing scholorship.
 
 I'm still learning DSA type materials even after two DSA courses in my Bachelors, and enjoy the challenges on [leetcode.com](https://www.leetcode.com) even though I'm not very good (yet). 
 

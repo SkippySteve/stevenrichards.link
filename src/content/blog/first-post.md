@@ -8,7 +8,7 @@ draft: false
 tags:
   - ccna
   - sans
-  - comp-sci
+  -
 description:
   What I'm currently up to.
 ---
