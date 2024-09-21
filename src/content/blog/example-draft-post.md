@@ -1,21 +1,20 @@
 ---
-title: Example Draft Post
-author: Sat Naing
-pubDatetime: 2022-06-06T04:06:31Z
-slug: example-draft-post
+title: First Post - What I'm Studying/Doing
+author: Steve
+pubDatetime: 2024-09-21T04:06:31Z
+slug: first
 featured: false
-draft: true
+draft: false
 tags:
-  - TypeScript
-  - Astro
+  - ccna
+  - sans
+  - comp-sci
 description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  What I'm currently up to.
 ---
 
-Users cannot see this post because it is in draft.
+Currently working on my last three courses in my Bachelors. 
 
-## Motivation
+Studying for CCNA, have an exam scheduled early November. 
 
-rec 1
+Might get totally sidetracked in a week if I'm accepted to move onto stage two of a Cybersecurity scholorship where I can earn 4 SANS certifications.

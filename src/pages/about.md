@@ -3,34 +3,22 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My name is Steve and I'm a senior year Computer Science major just looking to create some documentation of my journey through IT and programming.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Professional Info
+Currently in IT for about 3 years now, been with a couple different companies in that time. Started out in help desk and software support, have since moved onto a desktop/field support role.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Earned an Associates in Cybersecurity in 2023, currently working on finishing my Bachelors in Computer Science. I still love Cybersecurity but I wanted to go deeper into how computers work, and how I can make them do what I want, without relying on someone giving me permission through an app they built.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## Hobbies
+I honestly don't enjoy much outside the world of computers. Perhaps I'm too obsessed, but it is what it is.
 
-## Tech Stack
+I enjoy Capture The Flag (CTF) competetions. I've participated in about 5 now. The last one I competed in spanned 3 days and I placed in the top 10%, and might land me an amazing scholorship.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I'm still learning DSA type materials even after two DSA courses in my Bachelors, and enjoy the challenges on [leetcode.com](https://www.leetcode.com) even though I'm not very good (yet). 
 
-## Features
+## Family
+I have an amazing supportive family, including two children, that make everything I do professionally possible. If it wasn't for them I wouldn't have the drive to keep going.
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+## Political and Religious Beliefs
+Just kidding... probably wont share those here.
